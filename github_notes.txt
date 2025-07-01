@@ -1,0 +1,1 @@
+GitHub is a website and cloud service for storing, sharing, and collaborating on code using Git, a version control system. It helps developers track changes, work together, and manage projects.
